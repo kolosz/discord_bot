@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70666311-d188-4ca8-a949-12ee6368a108" name="Default Changelist" comment="" />
+    <list default="true" id="70666311-d188-4ca8-a949-12ee6368a108" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot/bot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dotenv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dotenv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-fetch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +68,13 @@
       <option name="presentableId" value="Default" />
       <updated>1607274571009</updated>
       <workItem from="1607274575372" duration="3911000" />
+      <workItem from="1608230085769" duration="1782000" />
+      <workItem from="1608320865551" duration="2817000" />
+      <workItem from="1608380348992" duration="636000" />
+      <workItem from="1608496191864" duration="1795000" />
+      <workItem from="1608565687076" duration="1272000" />
+      <workItem from="1608584024103" duration="115000" />
+      <workItem from="1608584210764" duration="1103000" />
     </task>
     <servers />
   </component>
@@ -77,11 +91,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOT initial commit msg" />
     <MESSAGE value="BOT initial commit msg 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOT initial commit msg 2" />
+    <MESSAGE value="BOT fix folderpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOT fix folderpath" />
   </component>
   <component name="WindowStateProjectService">
     <state x="511" y="196" width="998" height="708" key="SettingsEditor" timestamp="1607277994837">
