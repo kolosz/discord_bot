@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70666311-d188-4ca8-a949-12ee6368a108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bot/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/gif.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env-sample" beforeDir="false" afterPath="$PROJECT_DIR$/.env-sample" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot/bot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/basic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +79,16 @@
       <workItem from="1608584024103" duration="115000" />
       <workItem from="1608584210764" duration="1103000" />
       <workItem from="1613908667599" duration="617000" />
-      <workItem from="1613935724218" duration="3694000" />
+      <workItem from="1613935724218" duration="4200000" />
     </task>
+    <task id="LOCAL-00001" summary="BOT - wip">
+      <created>1613939660053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613939660053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,29 +110,34 @@
     <MESSAGE value="BOT initial commit msg" />
     <MESSAGE value="BOT initial commit msg 2" />
     <MESSAGE value="BOT fix folderpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOT fix folderpath" />
+    <MESSAGE value="BOT - wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOT - wip" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1613939204747">
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1613939932343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939204747" />
-    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1613939204747">
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939932343" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1613939932342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939204747" />
-    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1613939204746">
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939932342" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1613939932342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939204746" />
-    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1613939204747">
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939932342" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1613939932343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939204747" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939932343" />
     <state x="511" y="196" width="998" height="708" key="SettingsEditor" timestamp="1607277994837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="511" y="196" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607277994837" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613939664931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613939664931" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1613937084302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
