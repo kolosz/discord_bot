@@ -1,5 +1,6 @@
 const gif = require("./../commands/gif.js");
 const basic = require("./../commands/basic.js");
+const bungie = require("./../commands/bungie/bungie.js");
 
 const commands = { basic, gif }
 
