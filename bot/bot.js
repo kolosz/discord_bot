@@ -4,11 +4,10 @@ console.log('Beep beep!');
 require('dotenv').config({path: '../.env'});
 
 // constants
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const channelName = 'arrivals';
-const commandHandler = require("./commands");
+const commandHandler = require('./commands');
 
 client.on('ready', readyDiscord);
 client.on('message', commandHandler);
